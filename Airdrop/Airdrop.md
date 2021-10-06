@@ -5,8 +5,8 @@
 | [opyn](https://www.opyn.co/)            | Y    | 期权      |      | ETH  | Paradigm；Dragonfly Capital Partners；Coinbase | 11739   | 83M  | 0.015（gas 60） | 21.10.5      | discord说没有空投 | {1-8}.[10u].a.ETH.9.10 |
 | [betafinance](https://betafinance.org/) | Y    | 借贷+做空 | 做空 | ETH  | DeFiance;Multicoin;Delphi                      | 4282    | 20M  | 0.015(gas)      | 21.10.5      | 9.29结束快照      | {1,4-8}.a.ETH.9        |
 | [opensea](https://opensea.io/)          | Y    | NFT       | 最大 | ETH  | a16z                                           | 912,550 |      |                 | 21.10.5      | 买卖多次          | {1}.a.ETH.9            |
-| [showtime](https://tryshowtime.com/)    | Y    | NFT       |      | ETH  | Paradigm；Dragonfly Capital Partners           |         |      | 0               | 21.10.5      | 免gas费铸造nft    |                        |
-|                                         |      |           |      |      |                                                |         |      |                 |              |                   |                        |
+| [showtime](https://tryshowtime.com/)    | Y    | NFT       |      | ETH  | Paradigm；Dragonfly Capital Partners           |         |      | 0               | 21.10.5      | 免gas费铸造nft    | {1-17}.a.poly.9        |
+| [arbiturm](https://bridge.arbitrum.io/) | Y    | L2        | 最大 | ETH  | 123M;polychain;coinbase                        |         | 14B  |                 | 21.10.5      |                   | {1,5,7,8}.a.eth.9      |
 |                                         |      |           |      |      |                                                |         |      |                 |              |                   |                        |
 |                                         |      |           |      |      |                                                |         |      |                 |              |                   |                        |
 |                                         |      |           |      |      |                                                |         |      |                 |              |                   |                        |
