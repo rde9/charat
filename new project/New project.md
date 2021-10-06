@@ -23,8 +23,8 @@
 | **Crypto Seals**                             | **AVAX 上的 Crypto Seals**                                   |
 | **Gen 0 Heroes**                             | Harmony                                                      |
 | **Vulcan**                                   | gamefi                                                       |
-|                                              |                                                              |
-|                                              |                                                              |
+| Starkware                                    | L2                                                           |
+| DerivaDEX                                    | 交易所 投资方：Dragonfly，Three arrows；coinbase；polychain（正在测试）有币DDX（上来就发币不太好） |
 |                                              |                                                              |
 |                                              |                                                              |
 |                                              |                                                              |
