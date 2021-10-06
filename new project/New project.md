@@ -25,7 +25,7 @@
 | **Vulcan**                                   | gamefi                                                       |
 | Starkware                                    | L2                                                           |
 | DerivaDEX                                    | 交易所 投资方：Dragonfly，Three arrows；coinbase；polychain（正在测试）有币DDX（上来就发币不太好） |
-|                                              |                                                              |
+| Mirror                                       | 去中心化写作，很有意思，可以试试（有几个功能打不开）         |
 |                                              |                                                              |
 |                                              |                                                              |
 |                                              |                                                              |
