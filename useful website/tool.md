@@ -4,7 +4,7 @@
 
 ### [Defi-Lab.xyz](https://defi-lab.xyz/) Uniswap 模拟器，学习其原理
 
-### <font color="red">[WIP]</font> [EPNS (Ethereum Push Notification Service)](https://epns.io/)  以太坊推送通知系统
+### [WIP] [EPNS (Ethereum Push Notification Service)](https://epns.io/)  以太坊推送通知系统
 
 ## 数据分析
 
