@@ -10,6 +10,8 @@
 
 ### [Crunchbase](https://www.crunchbase.com/) 私营企业和上市公司融资信息
 
+### [SimilarWeb](https://www.similarweb.com/zh/) 网站数据分析
+
 ### [CoinMarketCap](https://coinmarketcap.com/) &&  [CoinGecko](https://coingecko.com/) Token信息平台
 
 > CoinGecko Telegram bot: @CoinGeckoBot
