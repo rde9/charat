@@ -35,8 +35,8 @@
 | [riskharbor](https://twitter.com/riskharbor)           |                                                              |
 | THORchain                                              |                                                              |
 | Domination Finance                                     |                                                              |
-|                                                        |                                                              |
-|                                                        |                                                              |
+| BloctoBay                                              | FLOW NFT，台湾团队，其代币BLT刚完成IDO                       |
+| Bloctopia                                              | polygon NFT，元宇宙，代币BLOK                                |
 |                                                        |                                                              |
 |                                                        |                                                              |
 |                                                        |                                                              |
