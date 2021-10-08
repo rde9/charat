@@ -40,5 +40,6 @@
 | polysynth                                              | 一定去参加一下                                               |
 | **RTFKT Studios**                                      |                                                              |
 | https://wallet.near.org/profile                        |                                                              |
-|                                                        |                                                              |
+| [Biconomy](https://www.biconomy.io/)                   | Primitive Ventures(DODO, IF, NAOS)，Mechanism Capital(nansen)，Genblock Capital(Dexlab)，Huobi；21.10.15在CoinList公募 |
+| [MetaVisa](http://metavisa.com/)                       | [元宇宙 个人身份体系](https://www.theblockbeats.com/news/26872) |
 
