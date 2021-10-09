@@ -6,6 +6,8 @@
 
 ### [WIP] [EPNS (Ethereum Push Notification Service)](https://epns.io/)  以太坊推送通知系统
 
+### [Pinata](https://www.pinata.cloud/) IPFS云存储 免费计划1GB [简介](https://zhuanlan.zhihu.com/p/136925784)
+
 ## 数据分析
 
 ### [Crunchbase](https://www.crunchbase.com/) 私营企业和上市公司融资信息
