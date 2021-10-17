@@ -1,0 +1,9 @@
+# Fantom (FTM)
+
+| Protocol   | Action Required                                              | Date          | Site                        | Twitter                             | Note                                                         |
+| ---------- | ------------------------------------------------------------ | ------------- | --------------------------- | ----------------------------------- | ------------------------------------------------------------ |
+| Robo vault | Use vaults                                                   | End 2021-2022 | https://www.robo-vault.com/ | https://twitter.com/robo_vault      | https://docs.robo-vault.com/robovault-v2/untitled, snapshots taken between 1st August and 29th September for V1 vaults and others snapshots are taken everydays |
+| Artion     | Buy and Sell NFTs                                            | Unknown       | https://artion.io/          | /                                   | This is Andre Cronje behind with Fantom                      |
+| Rarity MMO | Play the game                                                | Unknown       | https://raritymmo.com/      | https://twitter.com/AndreCronjeTech | Watch this video: https://www.youtube.com/watch?v=jrgUY8Cg_gM |
+| Reaper     | Use the protocol                                             | Unknown       | https://www.reaper.farm/    | https://twitter.com/Reaper_Farm     | Speculative + has no token yet                               |
+| Geist      | https://medium.com/@geistfantom/pre-launch-announcement-geist-finance-fbfb938afd2f | Live          | /                           | https://twitter.com/GeistFinance    | https://medium.com/@geistfantom/pre-launch-announcement-geist-finance-fbfb938afd2f |

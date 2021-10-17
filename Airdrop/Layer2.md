@@ -1,0 +1,8 @@
+# Layer 2
+
+| Protocol | Blockchain            | Action Required                                              | Date    | Site                         | Twitter                          | Note                                                       |
+| -------- | --------------------- | ------------------------------------------------------------ | ------- | ---------------------------- | -------------------------------- | ---------------------------------------------------------- |
+| Optimism | Optimism              | Use the official bridge (https://gateway.optimism.io/) + BC (blockchain) | Unknown | https://optimism.io/         | https://twitter.com/optimismPBC  | Big rumors + insinuated by these crypto twittos recognized |
+| Rubicon  | Optimism              | Use the protocol                                             | Unknown | https://www.rubicon.finance/ | https://twitter.com/rubicondefi  | Speculative + has no token yet                             |
+| Arbitrum | Arbitrum              | Use the official bridge (https://bridge.arbitrum.io/) + BC (blockchain) | Unknown | https://arbitrum.io/         | https://twitter.com/arbitrum     | Big rumors + insinuated by these crypto twittos recognized |
+| Aztec    | Aztec ZkSNARK Layer 2 | Use Aztec                                                    | Unknown | https://aztec.network/       | https://twitter.com/aztecnetwork | Speculative + has no token yet                             |
