@@ -16,7 +16,7 @@
 
 # @haze0x：很杂a 
 
-# @bitfish1：鱼神y
+# @bitfish1：鱼神a
 
  # @ZssBecker （NFT）a
 
@@ -28,9 +28,9 @@
 
 # @Rewkang（各类信息，英文）y
 
-# @DekuKing1（很杂）y
+# @DekuKing1（很杂）a
 
-# @realsatoshinet：空投 y
+# @realsatoshinet：空投 a
 
 
 
