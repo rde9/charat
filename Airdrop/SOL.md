@@ -18,3 +18,4 @@
 | Socean       | Stake $SOL on their protocol                                 | Unknown  | https://www.socean.fi/      | https://twitter.com/SoceanFinance   | Rumors on their discord                                      |
 | Apricot      | Be an early user on the protocol                             | Unknown  | https://apricot.one/#/      | https://twitter.com/ApricotFinance  | https://apricotfinance.medium.com/updates-on-mainnet-launch-8f76855cc652 |
 | Jupiter      | Make swaps                                                   | Unknown  | https://jup.ag/             | https://twitter.com/JupiterExchange | Speculative + has no token yet                               |
+
