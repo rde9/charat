@@ -7,6 +7,11 @@
 |    8193     |                    Hop 跨链 ：ETH 到 arb                     |
 |    8193     |                    aztec.network Layer 2                     |
 |             | Uniswap V3 流动性管理协议[sommelier](https://app.sommelier.finance/) |
+|             |    去中心化保险[Solace](https://solace.fi/?ref=block123)     |
+|             |                                                              |
+|             |                                                              |
+|             |                                                              |
+|             |                                                              |
 
 ### SOL
 
@@ -86,7 +91,7 @@
 |                     | 去中心化图片网站[numbersprotocol](https://www.numbersprotocol.io/?ref=block123) |
 |                     |                     期权流动性Polynomial                     |
 | 15701510484@163.com | Defi借贷协议[https://sublime.finance/](https://sublime.finance/?ref=block123) |
-|                     |                                                              |
+|                     |   多链NFT游戏[bcmhunt](https://bcmhunt.com/?ref=block123)    |
 |                     |                                                              |
 |                     |                                                              |
 |                     |                                                              |
