@@ -83,6 +83,6 @@
 | 15701510484@163.com | 估值5亿美元的卡牌NFT游戏：[parallel.life](https://parallel.life/)（需要prime key 20E） |
 | 15701510484@163.com |  跟单交易（copy-trading）和合成指数[SOL]:Synchrony Finance   |
 |                     |        sol上蓝筹游戏[aurory](https://app.aurory.io/)         |
-|                     |                                                              |
+|                     | 去中心化图片网站[numbersprotocol](https://www.numbersprotocol.io/?ref=block123) |
 |                     |                                                              |
 
