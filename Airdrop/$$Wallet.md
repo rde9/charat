@@ -80,8 +80,8 @@
 | 15701510484@163.com |                     envelop.is：NFT平台                      |
 |                     |              大佬支持的P2E游戏：fancybirds.io/               |
 |                     |         Defi协议（出名机构投资）：timeswap.io [ETH]          |
-|                     | 估值5亿美元的卡牌NFT游戏：parallel.life（需要prime key 20E） |
-|                     |                                                              |
+| 15701510484@163.com | 估值5亿美元的卡牌NFT游戏：parallel.life（需要prime key 20E） |
+| 15701510484@163.com |  跟单交易（copy-trading）和合成指数[SOL]:Synchrony Finance   |
 |                     |                                                              |
 |                     |                                                              |
 |                     |                                                              |
