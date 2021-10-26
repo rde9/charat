@@ -64,3 +64,11 @@
 
 ### [All Rumors Airdrops](https://sourceful.us/doc/1016/all-rumors-airdrops)
 
+### 招聘
+
+### https://cryptocurrencyjobs.co/
+
+### https://angel.co/jobs
+
+### https://www.paradigm.xyz/opportunities/
+
