@@ -8,6 +8,16 @@
 
 ### [Pinata](https://www.pinata.cloud/) IPFS云存储 免费计划1GB [简介](https://zhuanlan.zhihu.com/p/136925784)
 
+[即时显示的html编辑工具](https://www.runoob.com/w3cnote/hbuilder-intro.html)
+
+[html入门](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML)
+
+[快速入门truffle](https://learnblockchain.cn/docs/truffle/quickstart.html)
+
+
+
+
+
 ## 数据分析
 
 ### [Crunchbase](https://www.crunchbase.com/) 私营企业和上市公司融资信息
@@ -71,4 +81,6 @@
 ### https://angel.co/jobs
 
 ### https://www.paradigm.xyz/opportunities/
+
+
 
