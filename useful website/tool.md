@@ -74,6 +74,8 @@
 
 ### [All Rumors Airdrops](https://sourceful.us/doc/1016/all-rumors-airdrops)
 
+### [ATOM Airdrops](https://docs.google.com/spreadsheets/d/1vGJ-JJxNLgvc1FnEkc5CLC1unek6yacE_YalAis9Nw4/edit#gid=0) 待整理！！
+
 ## 招聘
 
 ### https://cryptocurrencyjobs.co/
