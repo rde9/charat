@@ -11,7 +11,7 @@ Self-maintained blockchain information & news aggregation.
 
 3. 新项目列表 new project
 4. 每天干的活 daily work
-5. 好用的网站 useful website
+5. 好用的网站 useful website （实用工具、Twitter/Telegram/Discord/Medium等平台优秀频道/专栏/社群收集）
 6. 好项目未完成 good project but no dapp
 7. smart contract code
 8. good article
