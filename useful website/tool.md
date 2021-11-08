@@ -48,6 +48,8 @@
 
 ### [CypherHunter](https://www.cypherhunter.com/zh-hans/) 比楼上更加专业和全面
 
+### [PLAY TO EARN ONLINE MAGAZINE](https://www.playtoearn.online/) 链游/P2E 日报
+
 ## 关于空投
 
 ### [airdrops.io](https://airdrops.io/)
