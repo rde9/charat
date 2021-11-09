@@ -14,6 +14,8 @@
 
 ### [快速入门truffle](https://learnblockchain.cn/docs/truffle/quickstart.html)
 
+### [How to DeFi 中文版](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/) 译者：侠客张 https://twitter.com/nigdaemon
+
 ## 数据分析
 
 ### [Crunchbase](https://www.crunchbase.com/) 私营企业和上市公司融资信息
