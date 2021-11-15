@@ -16,6 +16,8 @@
 
 ### [How to DeFi 中文版](https://nigdaemon.gitbook.io/how-to-defi-advanced-zhogn-wen-b/) 译者：侠客张 https://twitter.com/nigdaemon
 
+### [Paradigm MultiFaucet](http://faucet.paradigm.xyz/) 领取测试币（只需登录推特账号）
+
 ## 数据分析
 
 ### [Crunchbase](https://www.crunchbase.com/) 私营企业和上市公司融资信息
@@ -25,6 +27,8 @@
 ### [CoinMarketCap](https://coinmarketcap.com/) &&  [CoinGecko](https://coingecko.com/) Token信息平台
 
 > CoinGecko Telegram bot: @CoinGeckoBot
+
+### [DropsTab](https://dropstab.com/) 楼上的竞品
 
 ### [DappRadar](https://dappradar.com/) DApp 榜单 网站地址、交易量、日活数据等
 
