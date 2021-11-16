@@ -17,6 +17,7 @@
 13. https://t.me/abmedia_news NEWS 鏈新聞-ABMedia 提供最精準的區塊鏈與加密貨幣資訊。
 14. https://t.me/grenadetw Grenade手榴彈 - 區塊鏈&虛擬貨幣大小事
 15. https://t.me/Degen_juntuan 德根战士土狗分享频道：每日分享新鲜金狗，伴随你的Degen生涯 && 交流群
+15. https://t.me/DistributedOffice GM Bulletin | 分布所：链接加密世界神经网络
 
 ### 英文频道、社群
 
