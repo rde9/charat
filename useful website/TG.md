@@ -20,6 +20,7 @@
 15. https://t.me/DistributedOffice GM Bulletin | 分布所：链接加密世界神经网络
 17. https://t.me/francium_zh Solana鏈上好用的槓桿農場平台 (非官方，草創中)
 18. https://t.me/chadigest Daily selection of crypto market analysis
+18. https://t.me/AlgorandExpressCN 一圈-Algorand中文快报 && Algorand(ALGO)官方中文群
 
 ### 英文频道、社群
 
