@@ -18,6 +18,8 @@
 14. https://t.me/grenadetw Grenade手榴彈 - 區塊鏈&虛擬貨幣大小事
 15. https://t.me/Degen_juntuan 德根战士土狗分享频道：每日分享新鲜金狗，伴随你的Degen生涯 && 交流群
 15. https://t.me/DistributedOffice GM Bulletin | 分布所：链接加密世界神经网络
+17. https://t.me/francium_zh Solana鏈上好用的槓桿農場平台 (非官方，草創中)
+18. https://t.me/chadigest Daily selection of crypto market analysis
 
 ### 英文频道、社群
 
