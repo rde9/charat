@@ -21,6 +21,8 @@
 17. https://t.me/francium_zh Solana鏈上好用的槓桿農場平台 (非官方，草創中)
 18. https://t.me/chadigest Daily selection of crypto market analysis
 18. https://t.me/AlgorandExpressCN 一圈-Algorand中文快报 && Algorand(ALGO)官方中文群
+18. https://t.me/avalaunch_zh Avalaunch $XAVA - 中文群组 (Official)
+18. https://t.me/avalanche_zh Avalanche(AVAX)官方中文群
 
 ### 英文频道、社群
 
