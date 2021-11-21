@@ -10,3 +10,4 @@
 
 6. https://discord.com/invite/bUeyYrBT8c DeFi研习社 by xiakezhang
 
+7. https://discord.gg/bujidao Buji DAO HQ
