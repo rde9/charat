@@ -18,6 +18,8 @@
 
 ### [Paradigm MultiFaucet](http://faucet.paradigm.xyz/) 领取测试币（只需登录推特账号）
 
+### [DEX Screener](https://dexscreener.com/) 方便的查看各個EVM的代幣K綫，添加到同一個Watch list。
+
 ## 数据分析
 
 ### [Crunchbase](https://www.crunchbase.com/) 私营企业和上市公司融资信息
