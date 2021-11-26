@@ -8,7 +8,7 @@
 
 [Defina 链游 BNB？待了解](https://defina.finance/)
 
-[表里唯一一个boba项目 senpai  二次元？][https://twitter.com/senpaiswap]
+[表里唯一一个boba项目 senpai  二次元](https://twitter.com/senpaiswap)
 
 [sol上的黑客松 回报gtc高](https://hackerlink.io/)
 
