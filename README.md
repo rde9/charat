@@ -16,3 +16,5 @@ Self-maintained blockchain information & news aggregation.
 7. smart contract code
 8. good article
 
+行话：https://www.abmedia.io/20210930-nft-terms-introduction
+
