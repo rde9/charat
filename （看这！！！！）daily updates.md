@@ -22,3 +22,22 @@
 
 [Solana链上的即时通讯？](https://www.grenade.tw/blog/jabber-the-on-chain-messaging-application/)
 
+## 11.27
+
+[Popcorn DAO 中文社区空投 别用主钱包！！！](https://t.me/popcornchatchinese/56)
+
+[转移工具：Coinbase, Binance, Huobi or FTX -> Arbitrum, Optimism, Boba and Ronin](https://twitter.com/layerswap)
+
+[conlist账号可太刑了](https://mobile.twitter.com/CoinList)
+
+[点击这里创建conlist](https://coinlist.co/register-)
+
+[Gamefi:thetan]()
+
+[das注册](https://da.systems/)
+
+[12.2号即将在币安上推出的一个NFT](https://mobile.twitter.com/TheBinanceNFT/status/1464897145824333833)
+
+[科学家DAO 脚本公开](https://github.com/scientistDAO)
+
+[VR*web3.0?](https://www.xhashtag.io/)
