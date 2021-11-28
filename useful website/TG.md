@@ -23,6 +23,7 @@
 18. https://t.me/AlgorandExpressCN 一圈-Algorand中文快报 && Algorand(ALGO)官方中文群
 18. https://t.me/avalaunch_zh Avalaunch $XAVA - 中文群组 (Official)
 18. https://t.me/avalanche_zh Avalanche(AVAX)官方中文群
+18. https://t.me/CryptoLaoLu 老陆的区块链笔记
 
 ### 英文频道、社群
 
