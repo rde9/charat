@@ -28,6 +28,8 @@
 
 [转移工具：Coinbase, Binance, Huobi or FTX -> Arbitrum, Optimism, Boba and Ronin](https://twitter.com/layerswap)
 
+## 11.28
+
 [conlist账号可太刑了](https://mobile.twitter.com/CoinList)
 
 [点击这里创建conlist](https://coinlist.co/register-)
@@ -41,3 +43,48 @@
 [科学家DAO 脚本公开](https://github.com/scientistDAO)
 
 [VR*web3.0?](https://www.xhashtag.io/)
+
+[重要！！链上邮件|本周三大项目之一！用户少速来](https://9000.hal.xyz/discover)
+
+[重要！！NFT碎片|本周三大项目之一](https://fractional.art/)
+
+[重要！！polymar|本周三大项目之一](https://www.polymar.com/)
+
+[薅 Fractional 羊毛](https://www.cnnews.today/showArticle?id=undefined&main_id=1236524)
+
+[盐酥鸡又在整什么活？](https://twitter.com/suji_yan/status/1464934829594607617)
+
+[IFTTT入门介绍](https://sspai.com/post/25270)
+
+[IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
+
+[rss3主页——以kaaimoe为例|maybe aiardrop](https://kaaimoe.eth.rss3.bio/)
+
+[关注这个公众号](https://www.traditionalnews.today/showArticle?main_id=481324)
+
+[daohaus的forum在这里搜你的proposal地址](https://forum.daohaus.club/c/foundationsdao/21)
+
+
+
+##  11.29
+
+[一个看项目信息的网站](https://datastudio.google.com/u/0/reporting/611d6973-ae5b-4ed8-9949-25570de9f5b5/page/nAYgC)
+
+[是得不到的scrt punk](https://twitter.com/scrtpunks)
+
+[链上音乐创作平台](https://twitter.com/arpeggi_labs)
+
+[hop发推支持更多的链 仍然没有发币的消息](https://twitter.com/HopProtocol/status/1464284419053834253)
+
+[web3时代为音乐NFT打榜](https://www.theblockbeats.info/news/27820)
+
+[socialfi monaconft的dis](https://discord.com/channels/900001678202400768/901162262256037888)
+
+
+
+
+
+
+
+
+
