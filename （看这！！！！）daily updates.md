@@ -68,7 +68,7 @@
 
 ##  11.29
 
-[一个看项目信息的网站](https://datastudio.google.com/u/0/reporting/611d6973-ae5b-4ed8-9949-25570de9f5b5/page/nAYgC)
+[一个看项目背后资方的网站](https://datastudio.google.com/u/0/reporting/611d6973-ae5b-4ed8-9949-25570de9f5b5/page/nAYgC)
 
 [是得不到的scrt punk](https://twitter.com/scrtpunks)
 
