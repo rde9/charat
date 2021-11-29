@@ -48,7 +48,7 @@
 
 [重要！！NFT碎片|本周三大项目之一](https://fractional.art/)
 
-[重要！！polymar|本周三大项目之一](https://www.polymar.com/)
+[重要！！polymar|本周三大项目之一](https://polymarket.com/)
 
 [薅 Fractional 羊毛](https://www.cnnews.today/showArticle?id=undefined&main_id=1236524)
 
@@ -81,6 +81,8 @@
 [socialfi monaconft的dis](https://discord.com/channels/900001678202400768/901162262256037888)
 
 
+
+##  tips:以后tw的项目发tw；dis的项目发dis；然后在qq群提一下，这样效率更高
 
 
 
