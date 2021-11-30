@@ -80,6 +80,30 @@
 
 [socialfi monaconft的dis](https://discord.com/channels/900001678202400768/901162262256037888)
 
+[工具|批量转账|gas低](https://disperse.app/)
+
+
+
+##  11.30 
+
+[也是工具|批量转账](https://multisender.app/)
+
+[XY即将在12.9进行IDO，记得刷几笔|惊魂一小时警告](https://xy.finance/)
+
+[英国手机卡激活教程](https://www.blueskyxn.com/202108/4979.html)
+
+[slingshot 支持 arb 了](https://mobile.twitter.com/SlingshotCrypto/status/1463259347446730753)
+
+[tornado cash 发起 arb 部署提案](https://mobile.twitter.com/TornadoCash/status/1465269558617550850)
+
+[跨链协议|具体干啥的待研究](https://www.pokt.network/)
+
+
+
+
+
+
+
 
 
 ##  tips:以后tw的项目发tw；dis的项目发dis；然后在qq群提一下，这样效率更高
