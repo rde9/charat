@@ -100,6 +100,20 @@
 
 
 
+## 12.1
+
+[关注这个推特](https://mobile.twitter.com/crypto3am)
+
+[复盘shib](https://mobile.twitter.com/0x_Todd/status/1464553442299375619)
+
+[优质笔记](https://delphipodcast.notion.site/LayerZero-Labs-Building-the-Future-of-Cross-chain-and-Solving-the-Bridging-Trilemma-with-Stargate-0611047aa56e4d768c3bc23c62bb4b89)
+
+
+
+
+
+
+
 
 
 
