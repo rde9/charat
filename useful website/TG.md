@@ -25,6 +25,7 @@
 18. https://t.me/avalanche_zh Avalanche(AVAX)官方中文群
 18. https://t.me/CryptoLaoLu 老陆的区块链笔记
 18. https://t.me/scientistDAO 科学家DAO，11.28 刚刚成立，教程分享，待观察
+18. https://t.me/shitcoindaily 屎币日报 ShitcoinDaily：试图从喧嚣的大海中寻找信号，寻找最有价值的屎币，由真本聪团队创建 && 交流群（真本聪）
 
 ### 英文频道、社群
 
