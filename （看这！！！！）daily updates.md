@@ -50,11 +50,17 @@
 
 
 
-[重要！！NFT碎片|本周三大项目之一](https://fractional.art/)
+[重要！！NFT碎片|本周三大项目之一](https://fractional.art/)      [薅 Fractional 羊毛](https://www.cnnews.today/showArticle?id=undefined&main_id=1236524)
+
+12.2更新：gas费太贵，但它是Paradingm领投的，为 Fractional 投资了 790 万美金的种子轮融资，真的很想试试
 
 [重要！！polymar|本周三大项目之一](https://polymarket.com/)
 
-[薅 Fractional 羊毛](https://www.cnnews.today/showArticle?id=undefined&main_id=1236524)
+12.2更新：polygon链，提出一个观点然后双方用usdc投票，对赌的形式，很新颖
+
+
+
+
 
 [盐酥鸡又在整什么活？](https://twitter.com/suji_yan/status/1464934829594607617)
 
