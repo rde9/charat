@@ -70,8 +70,6 @@
 
 12.2更新：polygon链，提出一个观点然后双方用usdc投票，对赌的形式，很新颖
 
-[盐酥鸡又在整什么活？](https://twitter.com/suji_yan/status/1464934829594607617)
-
 [rss3主页——以kaaimoe为例|maybe aiardrop](https://kaaimoe.eth.rss3.bio/)
 
 [关注这个公众号](https://www.traditionalnews.today/showArticle?main_id=481324)
@@ -120,7 +118,21 @@
 
 
 
-##  tips:以后tw的项目发tw；dis的项目发dis；然后在qq群提一下，这样效率更高
+## 12.2
+
+[有大佬在玩](https://app.platypus.finance/swap)
+
+[eluer测试币  一定要领](https://faucet.ropsten.be/)
+
+[给rss3捐款](https://gitcoin.co/grants/2679/rss3)
+
+[ZKOPRU on Testnet ](https://medium.com/privacy-scaling-explorations/zkopru-on-testnet-ba5b2d65ffa1)  [在这领测试币](https://faucet.paradigm.xyz/)
+
+
+
+##  tips:以后tw的项目发
+
+##  tw；dis的项目发dis；然后在qq群提一下，这样效率更高
 
 
 
