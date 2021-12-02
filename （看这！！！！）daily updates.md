@@ -34,8 +34,6 @@
 
 ##  11.26
 
-
-
 [Solana链上的即时通讯？](https://www.grenade.tw/blog/jabber-the-on-chain-messaging-application/)
 
 ## 11.27
@@ -56,8 +54,6 @@
 
 [12.2号即将在币安上推出的一个NFT](https://mobile.twitter.com/TheBinanceNFT/status/1464897145824333833)
 
-
-
 [VR*web3.0?](https://www.xhashtag.io/)
 
 [重要！！链上邮件|本周三大项目之一！用户少速来](https://9000.hal.xyz/discover)
@@ -74,21 +70,11 @@
 
 12.2更新：polygon链，提出一个观点然后双方用usdc投票，对赌的形式，很新颖
 
-
-
-
-
 [盐酥鸡又在整什么活？](https://twitter.com/suji_yan/status/1464934829594607617)
-
-
 
 [rss3主页——以kaaimoe为例|maybe aiardrop](https://kaaimoe.eth.rss3.bio/)
 
 [关注这个公众号](https://www.traditionalnews.today/showArticle?main_id=481324)
-
-
-
-
 
 ##  11.29
 
