@@ -1,3 +1,19 @@
+## 工具类
+
+[科学家DAO 脚本公开](https://github.com/scientistDAO)
+
+[收集了250+个swap、跨链桥、数据查询等方面的工具集合](https://twitter.com/0xshual/status/1463575819717070863?s=21)
+
+[daohaus的forum在这里搜你的proposal地址](https://forum.daohaus.club/c/foundationsdao/21)
+
+[也是工具|批量转账](https://multisender.app/)
+
+[工具|批量转账|gas低](https://disperse.app/)
+
+[IFTTT入门介绍](https://sspai.com/post/25270)     [IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
+
+
+
 ## 11.25
 
 [HapHap一站式链游](https://www.abmedia.io/20211124-blockchain-game-website-haphap-introduction)
@@ -18,7 +34,7 @@
 
 ##  11.26
 
-[收集了250+个swap、跨链桥、数据查询等方面的工具集合](https://twitter.com/0xshual/status/1463575819717070863?s=21)
+
 
 [Solana链上的即时通讯？](https://www.grenade.tw/blog/jabber-the-on-chain-messaging-application/)
 
@@ -40,7 +56,7 @@
 
 [12.2号即将在币安上推出的一个NFT](https://mobile.twitter.com/TheBinanceNFT/status/1464897145824333833)
 
-[科学家DAO 脚本公开](https://github.com/scientistDAO)
+
 
 [VR*web3.0?](https://www.xhashtag.io/)
 
@@ -64,15 +80,13 @@
 
 [盐酥鸡又在整什么活？](https://twitter.com/suji_yan/status/1464934829594607617)
 
-[IFTTT入门介绍](https://sspai.com/post/25270)
 
-[IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
 
 [rss3主页——以kaaimoe为例|maybe aiardrop](https://kaaimoe.eth.rss3.bio/)
 
 [关注这个公众号](https://www.traditionalnews.today/showArticle?main_id=481324)
 
-[daohaus的forum在这里搜你的proposal地址](https://forum.daohaus.club/c/foundationsdao/21)
+
 
 
 
@@ -90,13 +104,13 @@
 
 [socialfi monaconft的dis](https://discord.com/channels/900001678202400768/901162262256037888)
 
-[工具|批量转账|gas低](https://disperse.app/)
+
 
 
 
 ##  11.30 
 
-[也是工具|批量转账](https://multisender.app/)
+
 
 [XY即将在12.9进行IDO，记得刷几笔|惊魂一小时警告](https://xy.finance/)
 
@@ -117,16 +131,6 @@
 [复盘shib](https://mobile.twitter.com/0x_Todd/status/1464553442299375619)
 
 [优质笔记](https://delphipodcast.notion.site/LayerZero-Labs-Building-the-Future-of-Cross-chain-and-Solving-the-Bridging-Trilemma-with-Stargate-0611047aa56e4d768c3bc23c62bb4b89)
-
-
-
-
-
-
-
-
-
-
 
 
 
