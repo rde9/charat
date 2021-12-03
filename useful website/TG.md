@@ -26,6 +26,7 @@
 18. https://t.me/CryptoLaoLu 老陆的区块链笔记
 18. https://t.me/scientistDAO 科学家DAO，11.28 刚刚成立，教程分享，待观察
 18. https://t.me/shitcoindaily 屎币日报 ShitcoinDaily：试图从喧嚣的大海中寻找信号，寻找最有价值的屎币，由真本聪团队创建 && 交流群（真本聪）
+18. https://t.me/proofofrelease 将Crypto世界中最重要的上百个项目的技术进展，做成一个独立的信息流产品：Other than the future plan or roadmap, we care more about product releases in Crypto.
 
 ### 英文频道、社群
 
