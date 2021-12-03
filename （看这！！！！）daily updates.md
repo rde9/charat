@@ -154,11 +154,25 @@
 
 [dis中文翻译插件教程](https://www.youtube.com/watch?v=2_EWaO7TW70)    [翻译软件](https://wwr.lanzoui.com/b02oh41aj)
 
-[类bico项目  12.1开放申请](https://twitter.com/Chainflip/status/1460544374199271428?s=20)
+[类bico项目  12.1开放申请](https://twitter.com/Chainflip/status/1460544374199271428?s=20) 
+
+ 大佬推荐：
 
 
 
+[gr11好多人捐](https://twitter.com/UmbraCash)
 
+[即将做dex的一个项目|背后资方极其豪华](https://twitter.com/primitivefi)
+
+[一个订单簿功能](https://twitter.com/ZigZagExchange)
+
+[uma的人搞得跨链](https://twitter.com/AcrossProtocol/status/1452645990750695433?s=20)
+
+[《没做的去做》](https://twitter.com/netswapofficial/status/1437768695087046669?s=20)
+
+[eth的隐私交易](https://zk.money/)
+
+[大佬推荐的大佬1](https://twitter.com/arale_3_3) [大佬推荐的大佬2](https://twitter.com/County_Cap/following)  [大佬推荐的大佬3](https://twitter.com/duke_rick1)
 
 
 
