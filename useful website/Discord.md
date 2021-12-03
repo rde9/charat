@@ -1,5 +1,7 @@
 # Discord
 
+https://www.youtube.com/watch?v=2_EWaO7TW70 Discord中文翻译插件教程
+
 ### 中文社群（简、繁）
 
 1. https://discord.com/invite/hNVRpZNJjQ DeFiEye
