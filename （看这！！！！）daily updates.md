@@ -174,7 +174,7 @@
 
 [大佬推荐的大佬1](https://twitter.com/arale_3_3) [大佬推荐的大佬2](https://twitter.com/County_Cap/following)  [大佬推荐的大佬3](https://twitter.com/duke_rick1)
 
-
+[又是一个项目](https://medium.com/@talentprotocol/the-five-part-series-to-talent-protocols-private-beta-part-1-talent-seasons-a723cb20b797)
 
 
 
