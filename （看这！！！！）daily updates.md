@@ -134,7 +134,7 @@
 
 [又是一大波空投](https://www.bitmmp.com/index.php/topic,503772.msg504134.html#msg504134)
 
-[?](https://l2charts.com/)
+[l2charts](https://l2charts.com/)
 
 [boba上的swap](https://swapperchan.com/swap)
 
