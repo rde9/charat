@@ -130,6 +130,46 @@
 
 
 
+## 12.3
+
+[又是一大波空投](https://www.bitmmp.com/index.php/topic,503772.msg504134.html#msg504134)
+
+[?](https://l2charts.com/)
+
+[boba上的swap](https://swapperchan.com/swap)
+
+[zkswap v3 测试网](https://mobile.twitter.com/ZKSwapOfficial/status/1465943738157465605)   [附带教程](https://medium.com/zkswap/a-complete-guide-to-zknft-testnet-6c949cfcde05)
+
+[MNDE空投](https://marinade.finance/app/mnde)
+
+[creatworld的opensea](https://opensea.io/collection/creatureworld)   [creatworld](https://www.creature.world/)
+
+[MeanFi体验测试教程：保姆级](https://medium.com/@zhiepengwang/meanfi%E4%BD%93%E9%AA%8C%E6%B5%8B%E8%AF%95%E6%95%99%E7%A8%8B-%E4%BF%9D%E5%A7%86%E7%BA%A7-5ad758e94ae) [教程推特](https://twitter.com/Bruce_Dopa/status/1466650225360388097)   [meanfi网站](https://app.meanfi.com/accounts)
+
+[账号交易合集](https://heji.ru/643.html)
+
+[liquality尽快做](https://liquality.io/)
+
+[meme制造](https://imgflip.com/memegenerator)
+
+[dis中文翻译插件教程](https://www.youtube.com/watch?v=2_EWaO7TW70)    [翻译软件](https://wwr.lanzoui.com/b02oh41aj)
+
+[类bico项目  12.1开放申请](https://twitter.com/Chainflip/status/1460544374199271428?s=20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##  tips:以后tw的项目发
 
 ##  tw；dis的项目发dis；然后在qq群提一下，这样效率更高
