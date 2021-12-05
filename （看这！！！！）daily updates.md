@@ -178,6 +178,52 @@
 
 
 
+## 12.4
+
+[Timeswap测试网 速度做 ](https://timeswap.io/)   [做完在这里填报](https://docs.google.com/forms/d/e/1FAIpQLSfxRtugbVVZBuc7Sb7_VCo6ZBIR2sseWllkobC5WkTQfCdJxA/viewform)
+
+[推荐一个youtuber](https://youtube.com/channel/UC5EWGzo8mg5bR8qs4PTBgKw)
+
+[律动机翻的messari报告](https://m.theblockbeats.info/news/27895?from=telegram)  [另一个版本](https://www.grenade.tw/blog/messari-2022-crypto-industry-report-chapter-one/)
+
+[coinbase cloud](https://www.chaincatcher.com/article/2067235)
+
+[Goldfinch交互视频教程](https://www.youtube.com/watch?v=KoJuKynbce8)
+
+[Gearbox测试网交互体验视频教程](https://www.youtube.com/watch?v=owDwuDDQPSQ&list=TLPQMDQxMjIwMjH7KVwIPTZ0Yg&index=2)
+
+[zk.money项目交互体验视频教程](https://www.youtube.com/watch?v=7aOSMlizSh8 )
+
+[Zigzag交互体验视频教程](https://www.youtube.com/watch?v=RdbwJURmISk)
+
+
+
+
+
+## 12.5
+
+[zksync教程（1.0主网，2.0测试网）](https://medium.com/@CalendarDefi/airdrop-guide-zksync-zigzag-a83ef3b33b70)
+
+[euler测试网教程](https://docs.google.com/document/d/1xWsgT2i9x2Birtt7Rm2mQNu2kCLkfUrue9LljwoMYU8/edit)   [中文教程](https://mirror.xyz/0x4580eB35894528525c75f7383Bea86b4A1bFc737/CxxJyZRGRMomQIxWinWUa3_lmwJZacWGMxpgrK2Qxrg)
+
+[XY finance空投细则](https://medium.com/@xyfinance/200-000-xy-tokens-20-galaxy-kats-nfts-airdrop-to-our-xyers-ca97e466b814)
+
+[messari报告中文版（crypto ape](https://medium.com/@W3.Hitchhiker/messari%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A-crypto-theses-for-2022-%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88-%E9%A6%96%E5%8F%91-313e5949396c)
+
+[gr12捐款懒人包](https://gitcoin.co/grants/explorer?collection_id=18755)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -194,3 +240,4 @@
 
 
 
+ 
