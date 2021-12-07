@@ -214,6 +214,34 @@
 
 
 
+## 12.6
+
+[handshake域名](https://handshake.org/)
+
+[A9级别大佬的地址|people前35名持币人](https://etherscan.io/address/0xEfA56859A9e0f16011Ef71811153C20Db4576C85)
+
+[sundaeswap|ADA上的](https://sundaeswap.finance/)  [ADA行情](https://www.binance.com/zh-CN/trade/ADA_USDT)
+
+[gitcoin中文简介](https://discovery-1.gitbook.io/cn/)
+
+[zoraNFT拍卖](https://zora.co/)
+
+
+
+## 12.7
+
+[dTrade内测开放](https://fireflyfoundation.typeform.com/to/SpGOeTLY?typeform-source=t.co)
+
+[sudoswap创始人发文|空投板上钉钉|xmon holders first?](https://twitter.com/0xmons/status/1468100320752398336)  [sudoswap网站](https://sudoswap.xyz/#/)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -240,4 +268,3 @@
 
 
 
- 
