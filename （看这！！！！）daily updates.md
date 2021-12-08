@@ -240,7 +240,19 @@
 
 [islander测试网空投名单](https://twitter.com/Islander_io/status/1468177985333522432)
 
+[之前提到过得项目即将IDO](https://app.platypus.finance/swap)
 
+[arbitrum上的项目列表|总览版 考完大物一个个更新](https://twitter.com/litocoen/status/1466070775056719875)
+
+[optimism上的项目列表|同上](https://twitter.com/litocoen/status/1463167314803712006)
+
+[cozy.finance|保险协议](https://docs.google.com/forms/d/e/1FAIpQLSdJ8xeCxbbGgaexNbrIQetLJr0OUluXXa9wFcxQKmJded4DEw/viewform)
+
+[pikaprotocol|和perp一样|记得刷](https://www.pikaprotocol.com/)
+
+[再次提醒刷across](across.to)
+
+[colony质押指南](https://medium.com/@Colonylab/colonys-staking-tutorial-178cabe9a26)
 
 
 
