@@ -236,6 +236,10 @@
 
 
 
+## 12.8
+
+[islander测试网空投名单](https://twitter.com/Islander_io/status/1468177985333522432)
+
 
 
 
