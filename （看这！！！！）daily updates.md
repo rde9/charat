@@ -256,6 +256,36 @@
 
 
 
+## 12.9
+
+
+
+[zk项目打包](https://twitter.com/AnClint/status/1468463864522342400?t=-SUdjmL-ZFF08f1ix5Ejgw&s=19)
+
+[一个工具|有点像个人资产看板？](https://stackedinvest.com/)
+
+
+
+[一个叫做Anytype的项目 这是他们推特](https://twitter.com/AnytypeLabs)
+
+ [这是他们项目网站](https://anytype.io/en)
+
+ [这是他们的申请表](https://anytype.typeform.com/early-access?typeform-source=t.co)
+
+
+
+[来填邮箱](https://www.unstoppable.fi/)
+
+
+
+[一个叫做sommelier的项目](https://sommelier.finance/)
+
+
+
+
+
+
+
 
 
 
