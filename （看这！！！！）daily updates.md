@@ -282,11 +282,67 @@
 
 
 
+## 12.10
+
+[一个很全的导航](https://pktoken.com/)
+
+[Lemma|背后资方很豪华](https://twitter.com/LemmaFinance)
+
+## 12.11
+
+[@ZoomerAnon里提到的项目1](https://alpha.charm.fi/) 
+
+[@ZoomerAnon里提到的项目2](https://www.cozy.finance/)
+
+[@ZoomerAnon里提到的项目3](https://saddle.finance/#/)
+
+[@ZoomerAnon里提到的项目4](https://www.lyra.finance/)
+
+[@ZoomerAnon里提到的项目5](https://foundation.app/)
+
+[harpyfinance测试网已上线arbitrum-rinkeby-testnet](https://medium.com/@harpyfinance/harpy-finance-is-live-on-arbitrum-rinkeby-testnet-529ce742c639)
+
+[layerswap](https://www.layerswap.io/)
+
+
+
+[showme的测试 记得加这几个club 也算数](https://cindybit97.showme.fan/) [club2](https://cindybit97.showme.fan/) [club3](https://cindybit97.showme.fan/) [club4](https://cindyust97.showme.fan)
 
 
 
 
 
+下面是大佬创建的5个俱乐部（进入5个填写表格会获得最高的奖品，进1个或者3个也可以） 
+
+[Rinkeby 链]( https://showmechina.showme.fan/) 
+
+[Harmony 链]( https://showmechina1.showme.fan/)
+
+ [BSC 链](https://showmechina2.showme.fan/) 
+
+[Polygon 链]( https://showmechina3.showme.fan/ )
+
+[PlatON 链]( https://showmechina4.showme.fan/)
+
+进入俱乐部后，[填写表格地址](https://gleam.io/IJdsl/beta-test) 需要关注官方推特和不和谐，填写你的ETH钱包地址 
+
+[Rinkeby领水](https://faucets.chain.link/rinkeby)
+
+[platON领水](https://faucet.platon.network/faucet/?id=e5d32df10aee11ec911142010a667c03)
+
+[harmony测试网领水](https://explorer.pops.one/)
+
+在最上面输入自己的钱包地址然后回车，得到的one开头的地址复制下来进入[这里](https://faucet.pops.one/) 粘贴跟着这个做就OK了
+
+
+
+[一个和咱理念极其相似的NFT项目 已经有了一定影响力 建议大家关注](https://twitter.com/nounsdao?t=qT5QYDAoDP6DFxPDZj20fw&s=09)
+
+
+
+## 12.12
+
+今天没有更新，祝大家考试顺利。
 
 
 
