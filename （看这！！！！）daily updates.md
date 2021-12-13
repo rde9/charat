@@ -346,6 +346,25 @@
 
 
 
+## 12.13
+
+[0.01eth进discord|脚本教学](https://mirror.xyz/dfarm.eth/crowdfunds/0xC2e0B35582fCB19d4783738F305BCc38F53c6Ca0)
+
+[脚本刷xpo](https://mirror.xyz/dfarm.eth/EUdr8IpZc19SnvzJXSVtVybrFuvv_4WRgJCHJlM7N9A)
+[zk.money项目交互](https://www.youtube.com/watch?v=7aOSMlizSh8)
+
+[B站老祖宗のNFT](https://site.nicovideo.jp/nft_hidariue/)
+
+[留邮箱体验](https://twitter.com/Alpinedefi)
+
+[以前提过，重点刷slingshot](https://app.slingshot.finance/trade/m/MATIC)
+
+[SOL|强推](https://jup.ag/)
+
+[atrix](https://www.atrix.finance/)
+
+[francium](https://francium.io/)
+
 
 
 
