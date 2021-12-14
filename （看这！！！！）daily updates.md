@@ -344,9 +344,7 @@
 
 ## 12.12
 
-[debridge 2.0测试](https://testnet.debridge.finance/)
-
-
+今日无更新，祝大家全员满绩点通过。
 
 
 
@@ -371,9 +369,15 @@
 
   [加 dis](https://discord.gg/jV5QWRnf)      [填表:](https://form.jotform.com/shrub_finance/shrub-paper-enrollment)     [关注](https://twitter.com/shrubfinance)    [转发](https://twitter.com/shrubfinance/status/1468607660719316999?s=20)前5000个领取nft
 
+[100个 去撸吧](https://defillama.com/airdrops)
 
+[debridge 2.0测试](https://testnet.debridge.finance/)
 
-TO DO:还有一个微信致死量未整理
+[bigplayer 王传福最新整理收纳](https://docs.google.com/spreadsheets/d/1Wdd1N_ilcIc9RFxRHrzdOZwqqamBE_NiLl4uoToUQZw/edit?usp=sharing)
+
+[社区梳理近200个潜在空投机会的加密项目名单](https://www.theblockbeats.info/news/27776?search=1) 这个是第五篇的链接，里面有前四的链接，也基本重复的多
+
+TODO:还差一个excel没整理
 
 ## 12.14
 
