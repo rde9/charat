@@ -12,9 +12,8 @@
 
 [IFTTT入门介绍](https://sspai.com/post/25270)     [IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
 
+##  11.25
 
-
-## 11.25
 
 [HapHap一站式链游](https://www.abmedia.io/20211124-blockchain-game-website-haphap-introduction)
 
@@ -105,6 +104,9 @@
 [tornado cash 发起 arb 部署提案](https://mobile.twitter.com/TornadoCash/status/1465269558617550850)
 
 [跨链协议|具体干啥的待研究](https://www.pokt.network/)
+
+
+</details>
 
 
 
@@ -342,7 +344,9 @@
 
 ## 12.12
 
-今天没有更新，祝大家考试顺利。
+[debridge 2.0测试](https://testnet.debridge.finance/)
+
+
 
 
 
@@ -365,13 +369,19 @@
 
 [francium](https://francium.io/)
 
+  [加 dis](https://discord.gg/jV5QWRnf)      [填表:](https://form.jotform.com/shrub_finance/shrub-paper-enrollment)     [关注](https://twitter.com/shrubfinance)    [转发](https://twitter.com/shrubfinance/status/1468607660719316999?s=20)前5000个领取nft
 
 
 
+TO DO:还有一个微信致死量未整理
+
+## 12.14
+
+[无卡不欢](https://www.wkbhjlq.tw/)
 
 
 
-
+   
 
 
 
