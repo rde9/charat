@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=2_EWaO7TW70 Discord中文翻译插件教程
 
+[TediCross/TediCross](https://github.com/TediCross/TediCross) 单/双向转发Discord/Telegram消息
+
 ### 中文社群（简、繁）
 
 1. https://discord.com/invite/hNVRpZNJjQ DeFiEye
