@@ -415,6 +415,8 @@ TODO:还差一个excel没整理
 
 [showme gitcoin捐款最后一天](https://discord.com/channels/895235599064240138/895252300606636062/920927961534832671)
 
+[成功发行NFT指南](https://twitter.com/chriscantino/status/1471208223935852546)
+
 
 
 
