@@ -383,11 +383,37 @@ TODO:还差一个excel没整理
 
 [无卡不欢](https://www.wkbhjlq.tw/)
 
+## 12.15
+
+[timeswap圣诞节礼物](https://dyno.gg/form/6c3f4ff7)
+
+[thirdweb早鸟卡](https://thirdweb.com/)
+
+[Old Fashion解读Thetan Arena：优于Axie的经济模型](Old Fashion解读Thetan Arena：优于Axie的经济模型)
+
+[gm|闷声发大财](https://github.com/rde9/gm)
+
+[cybertrade](https://cybertrade.game/home)
 
 
-   
 
+## 12.16
 
+[SocialFi Waitlist填表](https://socialfi.ai/?invite=KeaJyC#waitForm)
+
+[关注这个人的文章](https://wayneti.substack.com/)
+
+[来留个ens地址](https://twitter.com/calchulus/status/1471145141540773889)
+
+[LifinityBeta白名单开放申请](https://twitter.com/CopyCat_Sol/status/1470836850637959168)  [相关介绍1](https://medium.com/solanatw/%E4%BB%8B%E7%B4%B9-lifinity-%E5%8D%94%E8%AD%B0-d3c4885611e7)  [相关介绍2](https://medium.com/solanatw/lifinity-flares-%E9%96%83%E5%85%89-defi-%E5%92%8C-nft-%E7%9A%84%E8%9E%8D%E5%90%88-3f29c2af491d)
+
+[空投收集|综合网站](https://dropsearn.com/)
+
+ [链游资讯](https://catcat.pro/)
+
+[定制网页RSS源](https://zhuanlan.zhihu.com/p/46216545)
+
+[showme gitcoin捐款最后一天](https://discord.com/channels/895235599064240138/895252300606636062/920927961534832671)
 
 
 
