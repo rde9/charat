@@ -1,16 +1,18 @@
 ## 工具类
 
-[科学家DAO 脚本公开](https://github.com/scientistDAO)
+> [科学家DAO 脚本公开](https://github.com/scientistDAO)
+>
+> [收集了250+个swap、跨链桥、数据查询等方面的工具集合](https://twitter.com/0xshual/status/1463575819717070863?s=21)
+>
+> [daohaus的forum在这里搜你的proposal地址](https://forum.daohaus.club/c/foundationsdao/21)
+>
+> [也是工具|批量转账](https://multisender.app/)
+>
+> [工具|批量转账|gas低](https://disperse.app/)
+>
+> [IFTTT入门介绍](https://sspai.com/post/25270)     [IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
 
-[收集了250+个swap、跨链桥、数据查询等方面的工具集合](https://twitter.com/0xshual/status/1463575819717070863?s=21)
 
-[daohaus的forum在这里搜你的proposal地址](https://forum.daohaus.club/c/foundationsdao/21)
-
-[也是工具|批量转账](https://multisender.app/)
-
-[工具|批量转账|gas低](https://disperse.app/)
-
-[IFTTT入门介绍](https://sspai.com/post/25270)     [IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
 
 ##  11.25
 
@@ -416,6 +418,13 @@ TODO:还差一个excel没整理
 [showme gitcoin捐款最后一天](https://discord.com/channels/895235599064240138/895252300606636062/920927961534832671)
 
 [成功发行NFT指南](https://twitter.com/chriscantino/status/1471208223935852546)
+
+
+
+<details>
+    <summary>WTF</summary>
+    [就是说很烦](google.com)
+</details>
 
 
 
