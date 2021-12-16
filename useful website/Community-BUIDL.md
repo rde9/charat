@@ -6,6 +6,8 @@
 
 1. https://imgflip.com/ Imgflip - Create and Share Awesome Images
 2. https://memes.tw/ Meme 梗圖倉庫 - 今日熱門搞笑圖片，爆紅梗圖產生器，每天供應！
+2. https://livememe.com/ livememe - meme generator
+2. https://imgur.com/memegen Meme Generator - Imgur
 
 ### leveling
 
