@@ -389,7 +389,7 @@ TODO:还差一个excel没整理
 
 [thirdweb早鸟卡](https://thirdweb.com/)
 
-[Old Fashion解读Thetan Arena：优于Axie的经济模型](Old Fashion解读Thetan Arena：优于Axie的经济模型)
+[Old Fashion解读Thetan Arena：优于Axie的经济模型](https://www.theblockbeats.info/news/28085?from=telegram)
 
 [gm|闷声发大财](https://github.com/rde9/gm)
 
