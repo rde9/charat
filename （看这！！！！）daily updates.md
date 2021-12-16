@@ -419,12 +419,17 @@ TODO:还差一个excel没整理
 
 [成功发行NFT指南](https://twitter.com/chriscantino/status/1471208223935852546)
 
-
-
 <details>
     <summary>WTF</summary>
-    [就是说很烦](google.com)
+
+    [haha](https://www.google.com/)
+
 </details>
+
+
+
+
+
 
 
 
