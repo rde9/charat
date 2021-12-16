@@ -19,7 +19,7 @@
 <details>
     <summary>11月</summary>
 
-[aaa](google.com)
+11.25
 ------------
 
 [HapHap一站式链游](https://www.abmedia.io/20211124-blockchain-game-website-haphap-introduction)
