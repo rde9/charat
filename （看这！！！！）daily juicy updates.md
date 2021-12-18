@@ -463,7 +463,11 @@ TODO:还差一个excel没整理
 
 [whalemap|大佬强推](https://whalemap.io/)
 
+几个微信拾遗：
 
+[大佬推荐](https://hundred.finance/)
+
+[之前整理过的音乐项目|获得A16z投资](https://www.sound.xyz/)
 
 
 
