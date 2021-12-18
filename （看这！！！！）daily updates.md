@@ -427,13 +427,41 @@ TODO:还差一个excel没整理
 
 [成功发行NFT指南](https://twitter.com/chriscantino/status/1471208223935852546)
 
-<details>
-    <summary>WTF</summary>
-[test](www.baidu.com)
-</details>
+
+
+## 12.17
+
+[layer3](https://mobile.twitter.com/layer3xyz)
+
+[一些空投小技巧](https://mirror.xyz/dfarm.eth/8UPPKUdHUp8xdhKIQYC5wpkDAUIGieVFqDpgW7eZNRE)
+
+[galaxy.eco|大概率发token](https://galaxy.eco/CyberConnect/campaign/GCWE6UUcU5)
 
 
 
+## 12.18
+
+[cyberconnect|粉丝超5个人可以领NFT](https://app.cyberconnect.me/)  [有了五个粉丝之后在这里领取](https://galaxy.eco/CyberConnect/campaign/GCWE6UUcU5)
+
+[11月停更的优质新闻网站](https://www.voltz.xyz/)
+
+[voltz](https://www.voltz.xyz/)
+
+[优衣库圣诞NFT|MATIC白嫖](https://www.uniqly.io/christmas)
+
+[小浣熊的个人网站](https://www.decentralizedcitadel.com/)
+
+[ETHglobal的discord](https://discord.com/invite/EMgs6sN)
+
+[测试网给小号传水用这个](https://debridge.finance/)
+
+[Polynomial 测试教程](https://mirror.xyz/3344521.eth/u_UZ8YHB5eIjXSIHuGzPucQwysKgOxouGmD_nojqd-U)
+
+[<<科学家抢跑失败复盘>>](https://mirror.xyz/0xF809B33c4a6E4E188D397688f9218216C52be8b4/xDlQnVOfKPHSiNYBti1M7sitg6DTjo8WMJSMftt6dkQ)
+
+[订阅别人的交易](https://beta.prysm.xyz/)
+
+[whalemap|大佬强推](https://whalemap.io/)
 
 
 
