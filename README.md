@@ -10,10 +10,21 @@ Self-maintained blockchain information & news aggregation.
 模仿 [All Rumors Airdrops](https://docs.google.com/spreadsheets/d/1f_9c8P28dXG5K6DXlHGeTQUww5K8Ft6GgCKYZ8scjb0/edit).
 
 3. 新项目列表 new project
+
 4. 每天干的活 daily work
-5. 好用的网站 useful website （实用工具、Twitter/Telegram/Discord/Medium等平台优秀频道/专栏/社群收集）
+
+5. 资源 resources
+
+   实用工具
+
+   黑客松快报
+
+   Twitter/Telegram/Discord/Medium/Mirror/Substack等平台优秀频道/专栏/社群收集
+
 6. 好项目未完成 good project but no dapp
+
 7. smart contract code
+
 8. good article
 
 行话：https://www.abmedia.io/20210930-nft-terms-introduction
