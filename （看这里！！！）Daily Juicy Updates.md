@@ -471,6 +471,34 @@ TODO:还差一个excel没整理
 
 
 
+## 12.20
+
+[国人ip的NFT|冷兔](https://twitter.com/XRabbitsClub?t=OLlRpE5scRJaI8n6KiMlaQ&s=09)
+
+[很多人在推的$RNDR|目前很冷门，但在高知圈里已经被高度讨论和看好](https://twitter.com/BTCdayu/status/1472198403878572034?t=jym9KxZZdvXcz8b3_IV9SA&s=19)
+
+[来领免费的kudos](https://gitcoin.co/action/1043/have-a-free-kudos)
+
+[来drop你的ENS](https://twitter.com/andrewchoi5/status/1472370362520256513?t=4WAC4uhlCncrxQ6Ju5tlPA&s=19)
+
+[同样just fuking drop it](https://twitter.com/seyitaylor/status/1472390283325288453?t=hG6k8Du13TIOM5f1mMPxfQ&s=19)
+
+[兔子洞留ens](https://twitter.com/rabbithole_gg/status/1472558585297182723?t=39VcDvS-c_i6xjR1bUapBg&s=19)
+
+[Effie是思想家专用的写作软件。无论是严肃写作，随手记录，亦或是把逻辑完善成思维导图，Effie都是您明智的选择](https://www.effie.co/)
+[DeFi MOOC](https://www.youtube.com/channel/UCB67PxhB5LAWEbI4etQS7aw)
+[PeckShield](https://t.me/peckshield)
+[damn-vulnerable-defi](https://github.com/tinchoabbate/damn-vulnerable-defi/tree/v1.0.0/contracts)
+[蛋蛋的区块链笔记](https://paper.seebug.org/category/blockchain/) 
+[区块链CTF](https://chainflag.org/) 
+[Attacking Secondary Contexts in Web Applications - Sam Curry](https://www.youtube.com/watch?v=hWmXEAi9z5w) 
+
+[匿名声誉系统](https://twitter.com/sismo_eth)
+
+[bing chat抢开盘](https://t.me/BingDefiNoteChat/23029)
+
+[关注这个机构](https://twitter.com/ANT_Capital)
+
 
 
 ##  tips:以后tw的项目发
