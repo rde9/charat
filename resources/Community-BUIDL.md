@@ -13,3 +13,10 @@
 
 1. https://scientistdao.org/d/40-discord Discord自动水群脚本（建议只用来刷gm/gn）
 
+### early contribution
+
+1. 网站翻译
+2. dune.xyz 做 dashboard （使用SQL）
+3. 反女巫攻击
+4. 找智能合约漏洞
+
