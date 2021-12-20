@@ -445,7 +445,7 @@ TODO:还差一个excel没整理
 
 [11月停更的优质新闻网站](https://www.voltz.xyz/)
 
-[voltz](https://www.voltz.xyz/)
+[voltz](https://www.voltz.xyz/) 12.21再次收录
 
 [优衣库圣诞NFT|MATIC白嫖](https://www.uniqly.io/christmas)
 
@@ -498,6 +498,78 @@ TODO:还差一个excel没整理
 [bing chat抢开盘](https://t.me/BingDefiNoteChat/23029)
 
 [关注这个机构](https://twitter.com/ANT_Capital)
+
+## 12.20
+
+[rss3捐款领取](https://twitter.com/rss3_/status/1472792082351726592?t=S9Ack1givjxZWYgyM9CO_w&s=19)
+
+[卖mona](https://twitter.com/NFTMILK/status/1472840335612997636?t=lsDaHhvEUrpoDZ8IqNlysQ&s=19)
+
+[一个导航](0x751F6102A51047d148e510C20FF88c60eC9a9d9f)
+
+[ICP教程](https://mixlabs.gitbook.io/dfinitytutorials/)
+
+[金丝雀学院奖励名单](https://goldfinchfinance.notion.site/Flight-Academy-NFTs-and-Rewards-b6b6f2d8f70e4547b29d06d5d2f1523d)
+
+[goldfinch的借贷新池子](https://app.goldfinch.finance/pools/0x1d596d28a7923a22aa013b0e7082bba23daa656b)
+
+[可能是国人项目](https://www.iswap.com/)
+
+[来这里绑定GitHub|没项目的先fork|fork javascript python和react bronze](https://app.mazury.xyz/profile)  然后再进行绑定
+
+[sol上的NFT点击就送](https://solflare.com/)
+
+[MeanFinance|来dis频道丢地址已开放测试](https://discord.gg/cafFg7cV)
+
+[beethoven&ReaperFarm|NFTs giveaway](https://twitter.com/reaper_farm/status/1472263715441430530?s=21)
+
+[Comdex|ATOM上的airdrop可以领了](https://airdrop.comdex.one/)
+
+op ar zk shell vilmex saver money 二层上的 桥  fund  el yiel  zerion debnk meta guru
+
+[zetachain|被多个大佬看上|目前冷门|有测试网|绝对会被机构投](https://blog.zetachain.com/)
+
+[dune|还没发币](https://dune.xyz/home)
+
+<details>
+    <summary>gearbox投票+说明，点击查看</summary>
+GIP-1/2/3/4/5   为时3 天的投票程序已经开始
+
+投票内容包括：
+[GIP-1] 借贷池的现有提案 - 是/否
+[GIP-2] 许可交易的代币列表 - 多项选择
+[GIP-3] 许可交互的智能合约列表 - 多项选择
+[GIP-4] 技术多重签名人选 6/9 - 是/否
+[GIP-5] 金融多重签名人选 5/7 - 是/否
+有些提案是多项选择，有些是常规的是否选择。
+
+[请连接您的钱包并投票](https://snapshot.org/#/gearbox.eth)
+
+由于现存5个提案，因此投票已针对每个主题进行了优化整合，如果每个小内容单独提案会让投票过程不可进行，请将他当作一个捆绑包来选择。您可以在相应主题的论坛上讨论、反对或建议其他内容。未来的 GIP 会被单独拆分为特定的投票，而不是将它们捆绑在一起。
+[所有信息都可以在这里找到](https://gov.gearbox.fi/c/proposals/6)
+
+委托投票制是一种十分重要的社区组织方式，在下周的社区电话会议上，我们将概述谁是最活跃的成员，他们计划如何使用授权，以及如何简化此流程。现在，您可以直接使用自己的钱包对所有 5 个选项进行投票。快照投票是无gas的，不需要花费ETH……你已经花的够多了
+
+- 法定人数：获胜投票必须具有 >  总量2%的法定人数。这是支持提案选择所需的数字，以便将其归类为合法获胜，而不是参与投票。就目前可用的合格选票百分比而言，大约是 10% 的可用选票中的 2%，因此合格提案的法定人数为 20%。这是获取初始协议参数的一种非常安全的方法！
+- 时间：3 天投票，结束时间为 UTC 时间，12 月 21 日，星期二晚上
+- 公司钱包不允许投票
+- 我们设计的反向投票托管模型减少初始团队和技术贡献者的投票权：分别为0.125 和 0.250。这使得现阶段社区投票比所有其他的总和还要多！
+ [阅读有关此模型和治理规则的所有信息](https://docs.gearbox.finance/governance/setup#initial-governance-specifications)
+
+[了解更多内容，请参阅本文](https://medium.com/gearbox-protocol/the-path-to-launch-and-first-proposals-ab766ce10222)
+</details>
+
+
+
+[Arbitrum测试网上的ClearDAO测试](https://mirror.xyz/3344521.eth/Du9auo59G12OouOqw5rvTvriQ20SOzlPJjgRGQ1Y9hs)
+
+[Ambire|明牌空投的一个项目](https://blog.ambire.com/wallet-rewards-mechanism-explained-start-accumulating-value-before-the-token-is-launched-5e9ee36cefdd)
+
+[haloDAO的NFT](https://galaxy.eco/halodao/campaign/GCTFoUU7x8)
+
+[tw直接搜fxhash  看看粉丝 作品  有喜欢的买一个](https://twitter.com/fx_hash_)
+
+
 
 
 
