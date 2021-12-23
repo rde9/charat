@@ -471,7 +471,7 @@ TODO:还差一个excel没整理
 
 
 
-## 12.20
+## 12.19
 
 [国人ip的NFT|冷兔](https://twitter.com/XRabbitsClub?t=OLlRpE5scRJaI8n6KiMlaQ&s=09)
 
@@ -569,7 +569,107 @@ GIP-1/2/3/4/5   为时3 天的投票程序已经开始
 
 [tw直接搜fxhash  看看粉丝 作品  有喜欢的买一个](https://twitter.com/fx_hash_)
 
+[圣诞NFT|MATIC白嫖](https://www.uniqly.io/christmas)
 
+[harpy.finance空投|12.23截止|以前整理过](https://events.harpy.finance/?ref=4751)
+
+[movr.network|跨链|beta阶段](https://www.movr.network/)
+
+[cypherhunter|工具类](https://www.cypherhunter.com/zh-hans/)
+
+[polynomial已开始测试|机构可以](https://polynomial.fi/)
+
+[matic交互](https://unidexbeta.app/)
+
+[薅羊毛必备技能|以前整理过](https://mirror.xyz/dfarm.eth/8UPPKUdHUp8xdhKIQYC5wpkDAUIGieVFqDpgW7eZNRE)
+
+[无限机器收藏](https://www.theinfinitemachinemovie.com/artists)
+
+12.23留：这个项目等第二波吧
+
+[solana上的一个NFT|很tm丑](https://twitter.com/streamingfastio/status/1457740570114334722?s=20)
+
+[runnode的空投查询](https://app.runnode.com/verify-whitelist)
+
+[电影dao|0.05e mint|要发币](https://www.filmmakerdao.com/)
+
+[MeanFinance开始测试|需要手持lobster nft才可以测试  ](https://discord.gg/5YaDCC6k)  [相关文章](https://mean-finance.medium.com/meanv2-%CE%B2-testing-optimistic-future-dc302a2a41e2)
+
+[节点被动收益现在有og|12.23号目前11/100](https://discord.gg/8zCMXdtc)
+
+[金丝雀学院奖励名单来了](https://goldfinchfinance.notion.site/Flight-Academy-NFTs-and-Rewards-b6b6f2d8f70e4547b29d06d5d2f1523d)
+
+[goldfinch的借贷新池子开了](https://app.goldfinch.finance/pools/0x1d596d28a7923a22aa013b0e7082bba23daa656b)
+
+[AIgofi来存钱|应该要发空投](https://www.algofi.org/)
+
+[当初整理过shrub|空投|一个NFT](https://shrub.finance/airdrop)
+
+[matic测试](https://app.claystack.com/stake/polygon)
+
+## 12.21
+
+[清华链协|韩国top2大学链协|印度理工|搞的一个dao](https://twitter.com/0xDeUniversity/status/1452663766651265026?t=Wy2X8eG1JNL0NnTU0ZWErQ&s=19)
+
+[深潮新闻](https://www.techflow520.com/)
+
+[NFT赠送](https://twitter.com/MortFink/status/1473213725691629571?t=384dKh-FzVNOK30s5hUNog&s=19)
+
+[美化json在浏览器里的显示](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc)
+
+[留ens](https://twitter.com/jsngr/status/1472981645179432964?t=j4ufsmpThu29aNtKHW7wWw&s=19)
+
+[链上状态、链下状态与市场情绪是如何影响Token价值的？](https://www.theblockbeats.info/news/28262)
+
+[The Graph 使用教程](https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa)
+
+[一个词典](https://play.google.com/store/apps/details?id=com.dictionary)
+
+[科学家DAO 开发/运营小组招成员](https://scientistdao.org/d/56-dao)
+
+​	[治理公示](https://scientistdao.org/d/55-dao)
+
+​	[共识](https://scientistdao.org/d/4-dao)
+
+## 12.22
+
+[CELO 域名注册](https://app.nom.space/#/search)
+
+[luna链域名注册](https://tns.money)
+[solana链域名注册](https://naming.bonfida.org)
+[Tezos链域名注册](https://tezos.domains)
+
+[rss3中文tg](https://t.me/rss3_zh)
+
+[Visor Finance 攻击事件的分析和复现](https://github.com/W2Ning/Visor_Finance_Vul_Poc)
+
+[multiversedao|白嫖一块地](https://www.multiversedao.org/#/map/enroll)
+
+[galaxy年终活动](https://galaxy.eco/galaxy/campaign/GCts8UUAPJ)
+
+[两个优质gamefi](https://twitter.com/daixiexie/status/1473143752906928130?t=qgQzD0nMcEFWkaXSaGTetA&s=19)
+
+## 12.23
+
+[黑客松获奖项目](https://twitter.com/abu_xio/status/1473647691775164418?t=q4KJ80smPxCZMhWosJ4t6w&s=19)
+
+[NFT课程](https://www.seedao.xyz/learn)
+
+[RUST菜鸟教程](https://www.runoob.com/rust/rust-tutorial.html)
+
+1.[改狗名](https://twitter.com/TallyCash/status/1473465848602017798) 2.[进discord](https://discord.gg/aWAxDhkD)3.[填表做测试后](https://4yx7sf0w5h9.typeform.com/dogpackquiz)回到discord在claim-your-pack里~~选择你的狗角色~~
+
+但是12.20之后进群的领不了poap了，[等下一次](https://discord.com/channels/808358975287722045/877736966928605194/923136016909479966)
+
+
+
+
+
+
+
+
+
+[]()
 
 
 
