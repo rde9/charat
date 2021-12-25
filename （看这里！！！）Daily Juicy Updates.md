@@ -661,15 +661,109 @@ GIP-1/2/3/4/5   为时3 天的投票程序已经开始
 
 但是12.20之后进群的领不了poap了，[等下一次](https://discord.com/channels/808358975287722045/877736966928605194/923136016909479966)
 
+[大佬推荐|类似OHM的黑马|sensefinance](https://twitter.com/senseprotocol)
+
+[PlanetQuest|@ImmutableX 官推了|星际探索类游戏|现在加入可以获得免费NFT](https://planetquest.io/join/referral/1bf82ce05d28f87979f9158c033d9fbcbd39fa17ff74a3aa896bed24a7d202b1)
+
+[mirror文章搜索工具](https://askmirror.xyz/)
+
+[unstoppable domains|另一个域名|MATIC](https://twitter.com/wenxue600/status/1473881812086624256?t=ZKcqvZa08HnxuWmZeMDovA&s=19)
+
+[web3大学](https://www.web3.university/)
+
+[near黑客松](https://metabuild.devpost.com/?ref_feature=challenge&ref_medium=discover)
+
+[cbridge network|最近有个币](https://cbridge.celer.network/#/transfer)
+
+[MeanFinance第n次整理|最后一周扔地址|下周开始测试](https://mean.finance/)  [discord](https://t.co/V0wAEwBiPh)
+
+[Morpho测试交互教程](https://mirror.xyz/3344521.eth/TpsPsgeBPssdrFVfWpqxTUUvLjxU44FT7h5YobMxT7c)
+
+[狂推！！！！！element|聊天挖矿|会搞dao|discord一定要进项目方暗示有奖励](https://twitter.com/element_fi)  [discord](https://discord.com/invite/EEfKmfQdtx)
+
+[狂推！！！！！zk|发token就是大毛|跨链桥做一下](https://zk.money/))
+
+[humanode|我没搞明白是干嘛的.....](https://desktop-app.testnet2.stages.humanode.io/)
 
 
 
+## 12.24
 
 
 
+[有关钱包的测试网|很重要](https://suez.dev/)
 
+[进discord输入!ascend命令后输入Solana地址然后再输入submit领空投](https://discord.gg/nirvanadao)
+
+[chestfi|solana](https://www.chest.fi/)
+
+[阿迪达斯NFT科学家如何一挑n|绕过白名单](https://twitter.com/Montana_Wong/status/1472023753865396227?s=19)
+
+[evmos进展，去免费mintNFT，一定要记住hash值，上主网直接要用](https://evmosians.space/)
+
+[evmosiansNFT免费领](https://evm.evmos.org/address/0xaD4c0fF6A3D20a9d420D8DBeF1b5F8E9f907a663/write-contract)  [领水](https://faucet.evmos.org/)   [1](https://evm.evmos.org/address/0x7ed7D20698931c98Ecc8F4Fe95eE7CEBe35b6548/write-contract)  [2](https://evm.evmos.org/address/0xF12Aa72B237C1B936f5917BF0f90c1D8b7D29a1D/write-contract)   [3](https://evm.evmos.org/address/0x53A6ab26100898915e500661c603082C065d1E77/write-contract)
+
+ [银河女孩全家桶](https://galaxy.eco/galaxy/campaign/GCts8UUAPJ/)  [vera教程](https://mirror.xyz/eternallove.eth/OZL06oRckS_Y3hkesLUuRjlAGXrLoMvkoj0mbV9EPe0)
+
+[op](https://gateway.optimism.io/welcome)
+
+[SOS](https://www.theopendao.com/)
+
+
+
+## 12.25
+
+[脚哥](https://script.money/)
+
+测试网水龙头地址
+
+① Ropsten测试网
+1：https://faucet.dimensions.network/
+2：https://faucet.ropsten.be/
+
+② Kovan测试网
+1：[https://gitter.im/kovan-testnet/faucet
+2：)https://faucet.kovan.network/
+3：https://enjin.io/software/kovan-faucet
+4、https://app.pods.finance/faucet
+
+③ Rinkeby测试网
+1：https://faucet.rinkeby.io
+
+④ Goerli测试网
+1：https://faucet.goerli.mudit.blog/
+
+⑤ xDai
+1：https://xdai-faucet.top/
+2：https://bridge.xdaichain.com
+3：https://blockscout.com/xdai/mainnet/faucet
+
+⑥ kovan3测试网
+1：https://faucet.arbitrum.io/
+
+⑦ 币安BSC测试网
+1：https://testnet.binance.org/faucet-smart
+
+⑧ 欧易OKExChain测试网
+1：https://gitter.im/kovan-testnet/faucet
+2：https://www.okexcn.com/drawdex
+3：https://docs.kswap.finance/help/gitter
+
+[BSC to Moondriver](https://wiki.rugdoc.io/docs/how-to-bridge-busd-from-bsc-to-moonriver-using-the-meter-passport-bridge/)
+
+[私有网盘|账号密码在群](https://d.kaai.dev/)
+
+[银河女孩保姆级](https://private-agate-a03.notion.site/Project-Galaxy-2021-23a653eebab741788ab36966a0d13509)
 
 []()
+
+[]()
+
+[]()
+
+[]()
+
+
 
 
 
