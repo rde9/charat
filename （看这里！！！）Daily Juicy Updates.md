@@ -755,11 +755,23 @@ GIP-1/2/3/4/5   为时3 天的投票程序已经开始
 
 [银河女孩保姆级](https://private-agate-a03.notion.site/Project-Galaxy-2021-23a653eebab741788ab36966a0d13509)
 
-[]()
+## 12.27
 
-[]()
+QQ无微信待整理
 
-[]()
+## 12.28
+
+[一个测试](https://app.claystack.com/game)
+
+## 12.29
+
+  
+
+## 12.30
+
+[IC Naming - ICP生态的域名协议ICNAIMING开启测试网注册 (社区成员追梦人)](https://medium.com/@icnaming/icnaming-testnet-tutorial-b5f888f9099f)
+
+[paraswap圣经](https://medium.com/@CryptoAzrael/%E4%BB%8Eparaswap%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E4%B8%8D%E8%A2%AB%E9%A1%B9%E7%9B%AE%E6%96%B9%E5%8F%8D%E6%92%B8-1d3903c0a7c1)
 
 []()
 
