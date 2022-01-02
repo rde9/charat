@@ -118,8 +118,6 @@
 
 
 
-
-
 ## 12.1
 
 [关注这个推特](https://mobile.twitter.com/crypto3am)
@@ -791,23 +789,37 @@ GIP-1/2/3/4/5   为时3 天的投票程序已经开始
 
 [一个好推特](https://twitter.com/cryptojobslist/status/1474002990797361153?s=21)
 
-[]()
+[反女巫攻击]([https://desktop-app.testnet2.stages.humanode.io/](反女巫攻击))
 
-[]()
 
-[]()
-
-[]()
-
-[]()
 
 ## 12.28
 
 [一个测试](https://app.claystack.com/game)
 
+[JellyFi|机构很豪华](https://jellyfi.io/lend-crypto/)
+
+[波卡上的齿轮](https://gear-tech.io/)
+
+[候补名单](https://twitter.com/tryarmada/status/1458032838066966531?s=20)
+
+[这里转发进斯蒂卡](https://twitter.com/TimeswapLabs/status/1474742017708154887)   [填地址领取NFT](https://dyno.gg/form/6c3f4ff7)
+
+[AearaLend Beta 参加公测得空投](https://lendtest.amara.link/#/)
+
+[以太坊Web3原生协议签署和执行平台](ethsign.xyz)
+
+[snx创始人和ac搞的|很火](aelin.xyz)  [tw](https://twitter.com/aelinprotocol)
+
 ## 12.29
 
-  
+  [矮胖企鹅gamefi](https://mirror.xyz/0x5b197E3eE6770518f6F2735274522F48aBd69864/6PjzTCNiqnz4iOSKN6c-nNZK9UvDG_rZKOk93PNM8_w)
+
+[跨链资产转移工具Bridge Network正在进行测试网活动将向测试成员空投 BRG治理代币空投指南1.进入Bridge Network应用程序](https://testnet.bridgenetwork.com/)
+
+[2.切换网络至测试链，目前官网可以通过6个测试链测试，可以通过chainlist添加。3.通过各测试链获取测试网代币。4.完成测试网跨链交易及其他可交互的操作。5.填写这个谷歌表格以获取空投。](https://docs.google.com/forms/d/e/1FAIpQLSdBdDOyTpjLJu_vu4jNnQdB8suiyC0hPZo0vPTQRqKFNotiTA/viewform)
+
+[这个游戏不错，binance领投，CZ转推，还有alameda research和 jump trading ，现在游戏在公测，之前领过礼包的可以玩玩游戏，现在在盲挖阶段，感兴趣的可以冲下！](elfinkingdom.com)
 
 ## 12.30
 
@@ -815,9 +827,71 @@ GIP-1/2/3/4/5   为时3 天的投票程序已经开始
 
 [paraswap圣经](https://medium.com/@CryptoAzrael/%E4%BB%8Eparaswap%E5%AD%A6%E4%B9%A0%E5%A6%82%E4%BD%95%E4%B8%8D%E8%A2%AB%E9%A1%B9%E7%9B%AE%E6%96%B9%E5%8F%8D%E6%92%B8-1d3903c0a7c1)
 
-[]()
+[xdai上的一个小空投](https://giv.giveth.io/claim)
+
+[comdex空投](https://airdrop.comdex.one/)
+
+[Terra链即将发布的半官方新DEX——Astroport 公布空投细节，9月9日 之前质押过LUNA或在Terraswap提供过LP的，可以获得空投：](https://astroport.medium.com/astrodrop-breaking-down-the-astro-token-launch-allocations-7976a64616f5)
+
+[Tryarmada](https://twitter.com/tryarmada/status/1458032838066966531?s=20)
+
+[nft 期权项目](https://twitter.com/NiftyOptionsOrg)
+
+[波卡齿轮gear教程](https://wiki.gear-tech.io/get-started/getting-started-in-5-minutes/)
+
+[这个要自己创建部署智能合约，需要用到node/npm和Hardhat](https://app.buildspace.so/)
+
+[boba测试网](https://boba-testnet.sat.is/assets)
+
+[银河女孩教程](https://mirror.xyz/whereismy100.eth/w-7r_wAMumryr2xNc-Uu9Ybrj_1J1rVd3hvGUUGUUXk)
+
+[greenwood|借贷协议](https://twitter.com/GreenwoodLabs) [tw](https://twitter.com/GreenwoodLabs)
+
+[meanfinace扔过地址的去测试](https://beta.mean.finance/)
+
+[DAO Central白名单填写链接，星期四（12 月 30 日）上午 9 点（太平洋标准时间），白名单里有资格铸造创世成员NFT，价格是0.01eth](https://daocentral.com/blog/dao-central-nft)
+
+[beaverfi](https://rinkeby.beaver.fi/)
+
+[NexonNFT Airdrop ](https://docs.google.com/forms/d/e/1FAIpQLSeWI4CNSTl98SsB2MoR0Ecwc6op5o11JUFkayJYq0M0186AtA/viewform)
+
+[加密Mirror博主精选导航](https://glowing-october-bb2.notion.site/Mirror-fd9f8e8af755430d8f7dea78a65caf9a)
+
+[社交加投资组合](https://beta.prysm.xyz/)
+
+[进dis填地址 等着测试下alpha](https://twitter.com/walldotapp)
+
+[Wall - Early access|填表拿白]()
+
+[跨链桥 测试网|融了五百万](https://testnet.debridge.finance/)
+
+[My 2021 Web3 Journey](https://galaxy.eco/CyberConnect/campaign/GCeFYUUcuP)
+
+[Avatar的活动，雪人们，可以前去参与哦！](https://twitter.com/avatar_avax/status/1477165096560623616?s=21)
+
+[melos音乐NFT免费领取倒计时](https://www.melos.studio/registration?inviteCode=64145C13)
+
+[融了150w刀](https://www.renft.io/#tokenomics)
+
+https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
+
+[tezos的一个项目|挨个验证即可](https://tzprofiles.com/connect)
 
 
+
+# 2022
+
+
+
+## 1.1
+
+[zora的NFT|免费mint](https://zorb.dev/)
+
+## 1.2
+
+[填表](https://bpiowescm93.typeform.com/to/ujcEGW9H?typeform-source=syndicate.io)
+
+[如何发现高质量土狗|用nansen看gas变动要比etherscan全面](https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
 
 
 
