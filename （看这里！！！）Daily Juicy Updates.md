@@ -757,7 +757,49 @@ GIP-1/2/3/4/5   为时3 天的投票程序已经开始
 
 ## 12.27
 
-QQ无微信待整理
+[MATIC域名](https://unstoppabledomains.com/?ref=aebcc2c2ab9e477)
+
+[捐过Bloomeria的，会收到一个NFT空投，去Opensea看下有没有](https://gitcoin.co/grants/2200/bloomeria)  
+
+[然后可以参加下网页链接 投票，dao形式的碳治理，后续可能有碳代币空投。](https://snapshot.org/#/bloomeria.eth/proposal/0x4694ecb07a736c6c6c57bee8d98c149758f132f5433ba2eb3487cd2f884c4b7f)
+
+[Aracde|NFT的金融化](https://www.arcade.xyz/)
+
+[git有捐simplefi的可以领个NFT](https://og.simplefi.finance/)
+
+[sensefinance|第二次推了](https://sense.finance/)
+
+[答案：RIPPLE   LUNA   SOLANA  CARDANO  LITECOIN  DOGE    BITCOIN](https://changelly.typeform.com/to/YuuOxspY?utm_source=organic_twitter&utm_medium=organic_social&utm_campaign=2021.12--changelly&utm_content=organic-social-quiz&typeform-source=t.co)
+
+[第一步：复制链接进入后点击注册](https://testnet.bitmex.com/register/M3qKxX)
+
+[然后在水龙头领测试币 ](https://testnet-faucet.mempool.co/) 下面是地址，每小时能领10w刀，最后直接100杠杆刷交易量
+
+“即日起至3月底,根据您的交易量空投 BMEX 。在 BMEX 赚取高达您每月交易费用的25%。您交易的越多,您有资格获得的 BMEX 就越多-每个用户月的空投上限为50,000 BMEX 。”
+
+![image-20220102145749776](C:\Users\Yang\AppData\Roaming\Typora\typora-user-images\image-20220102145749776.png)
+
+领几次水龙头后 每个月的量一会儿就能刷满
+
+[cbridge有空投了？](https://cbridge.celer.network/#/rewards)
+
+[再提醒一下primitivefinance](https://rinkeby.app.primitive.finance/)
+
+[Sat.is测试网](https://mirror.xyz/mergod.eth/6p3drZyxV69yn1XftALHW4c5W4WDykUHXHl-_TcaY0w)
+
+[]()
+
+[一个好推特](https://twitter.com/cryptojobslist/status/1474002990797361153?s=21)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
 ## 12.28
 
