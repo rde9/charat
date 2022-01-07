@@ -2,10 +2,31 @@
 
 ### 待分类
 
-1. https://chainlist.org/ EVM网络列表
-2. https://defi-lab.xyz/ Uniswap模拟器；Polygon Gas & Network Stats
-3. https://www.pinata.cloud/ IPFS文件托管
-4. https://nodes.guru/ 运行（测试网）节点的最新消息和教程
+1.  EVM网络列表
+
+   https://chainlist.org/
+
+2. Uniswap模拟器；Polygon Gas & Network Stats
+
+   https://defi-lab.xyz/ 
+
+   同类工具
+
+   https://uniswapv3.flipsidecrypto.com/
+
+   https://uniswapv3.thechun.dev
+
+3. IPFS文件托管
+
+   https://www.pinata.cloud/
+
+4. 运行（测试网）节点的最新消息和教程
+
+   https://nodes.guru/
+
+5. 链上数据分析 Earn bounties for completing queries
+
+   https://flipsidecrypto.xyz/
 
 ### Infrastructure 基础设施
 
