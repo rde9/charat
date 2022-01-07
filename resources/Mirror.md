@@ -1,6 +1,8 @@
 # Mirror
 
-https://askmirror.xyz/ Mirror文章搜索工具
+https://askmirror.xyz/ 文章搜索
+
+https://submirror.xyz/ RSS订阅
 
 ### 中文
 
