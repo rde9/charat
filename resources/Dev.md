@@ -7,6 +7,14 @@
 3. https://www.pinata.cloud/ IPFS文件托管
 4. https://nodes.guru/ 运行（测试网）节点的最新消息和教程
 
+### Infrastructure 基础设施
+
+1. https://chainstack.com/
+2. https://www.quicknode.com/
+3. https://bwarelabs.com/
+4. https://www.pokt.network/
+5. https://moralis.io/
+
 ### Faucet 水龙头
 
 0：Paradigm MultiFaucet
