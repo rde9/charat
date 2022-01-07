@@ -893,6 +893,26 @@ https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
 
 [如何发现高质量土狗|用nansen看gas变动要比etherscan全面](https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
 
+## 1.7
+[各大主网域名情况]
+001.Ens域名：ens.domains（已空投）
+002.Luna链域名：tns.money（已空投）
+003.Solana链域名：naming.bonfida.org（已发币，无需续费）
+004.HNS域名：namebase.io（已发币）
+005.CELO 域名：app.nom.space/#/search（已明牌空投）
+006.Tezos链域名：tezos.domains（未发币）
+007.DAS域名：da.systems（未发币）
+008.unstoppable域名：unstoppabledomains.com（未发币，无需续费）
+009.Polygon链域名：sns.chat（未发币）
+010.FLOW域名：https://mynft.io/flowns （未发币）
+011.cosmos域名：https://app.starname.me （未发币）
+012.Stx 域名：https://btc.us （未发币）
+013.ICP域名：https://ens.icnaming.com/ （未发币）
+014.THORChain域名：https://thorname.com/ （未发币）
+015.Yat域名：https://y.at （未发币）
+016.波卡域名：https://polkadomain.org/ （未开启）
+017.Avax 域名：https://avvy.domains （未开启）
+
 
 
 ##  tips:以后tw的项目发
