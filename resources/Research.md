@@ -116,3 +116,6 @@
 
    https://context.app/
 
+6. 关注即将发售的NFT，根据Discord member和Twitter follower给出综合评分MintyScore
+
+   https://mintyscore.com/
