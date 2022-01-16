@@ -1,5 +1,7 @@
 # TW
 
+Twitter => Telegram: @TwitterForwardBot | [franciscod/telegram-twitter-forwarder-bot](https://github.com/franciscod/telegram-twitter-forwarder-bot)
+
 ### 中文
 
 1. @DianyongJiang[仟吉-Crypto8848]： 空投 y
