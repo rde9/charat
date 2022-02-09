@@ -1,4 +1,4 @@
-## 工具类
+# 工具类
 
 > [科学家DAO 脚本公开](https://github.com/scientistDAO)
 >
@@ -915,13 +915,39 @@ https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
 
 
 
-##  tips:以后tw的项目发
+##  
 
-##  tw；dis的项目发dis；然后在qq群提一下，这样效率更高
+## 2.9
+
+[galaxy情人节任务](https://galaxy.eco/PoolTogether/campaign/GCsfXUUWDu) 存款 转推 24h后领NFT
 
 
 
 
+
+
+
+
+
+
+
+# 按链分（持续更新中）
+
+> ## Matic
+>
+> [流支付+NFT订阅](https://twitter.com/dripsnetwork) 目前（2.9）还没研究出来咱能怎么参与。
+>
+> 
+
+
+
+> ## Avalanche
+>
+> [雪崩上的第一个社交网络kaira](https://twitter.com/KairaNetwork) 目前（2.9）还不能连接metamask，开放后可直接用NFT当socialID 创建NFT得$kaira
+>
+> 
+>
+> 
 
 
 
