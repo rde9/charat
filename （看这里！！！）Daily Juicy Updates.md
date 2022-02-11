@@ -11,8 +11,14 @@
 > [工具|批量转账|gas低](https://disperse.app/)
 >
 > [IFTTT入门介绍](https://sspai.com/post/25270)     [IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
+>
+> [SOL开发工具打包](https://www.theblockbeats.info/news/29170SOL)
 
 
+
+> ## 视频资料类
+>
+> [Querying with Open APIs Course](youtube.com/watch?v=cQx6ig3mp1U)
 
 # 11月
 
@@ -931,6 +937,10 @@ https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
 
 
 
+
+
+
+
 # 按链分（持续更新中）
 
 > ## Matic
@@ -950,4 +960,8 @@ https://mobile.twitter.com/hellopandadao/status/1477128042862428161)
 > 
 
 
+
+> # 跨链
+>
+> [一站式跨链钱包Liquality测试教程](https://mirror.xyz/qgstudio.eth/NRLbcFAiF5ehgN9-y9xQtGmTtBrwDVCD83DhhwZ4ElU)
 
