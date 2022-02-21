@@ -13,6 +13,8 @@
 > [IFTTT入门介绍](https://sspai.com/post/25270)     [IFTTT自动化工具](https://productforest.net/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7ifttt.html)
 >
 > [SOL开发工具打包](https://www.theblockbeats.info/news/29170SOL)
+>
+> [水龙头集合](https://zlexdl.notion.site/595b109ca1214ec2aa43ddafd6679982?v=f0c7d9cac5bf48f9b95813535279a6c0)
 
 
 
