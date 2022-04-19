@@ -29,3 +29,21 @@
 >[【官方】快速入门Truffle](https://learnblockchain.cn/docs/truffle/quickstart.html)
 >
 >[tryblockchain.org翻译的Truffle文档](https://truffle.tryblockchain.org/Truffle-FAQ-%E6%98%AF%E4%BB%80%E4%B9%88.html)
+
+
+
+## Youtube
+
+>[DappUniversity](https://www.youtube.com/c/DappUniversity) 全英手把手式教学 500k Subscribers 
+
+## Bilibili
+
+>[rebase社区](https://space.bilibili.com/382886213/)
+>
+>[Hipo丨Web3研习社](https://space.bilibili.com/1959829114/) 4.20更新：目前他们在搬运dappuniversity的2022转行web3系列 英语能力有限的可以看他们的搬运
+
+## Github
+
+>[Dapp-Learning-DAO](https://github.com/Dapp-Learning-DAO/Dapp-Learning) 可能是国内最好的dapp学习类dao
+>
+>
